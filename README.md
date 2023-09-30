@@ -2,7 +2,7 @@
 
 Repository where I will be uploading my submissions for exercises from the "Java Programming I" course from the University of Helsinki.
 
-The exercises were submitted using the TMC (test my code) plugin from the Univerity of Helsinki using Intellij, the submissions stored here for keepsake. 
+The exercises were submitted using the TMC (test my code) plugin from the Univerity of Helsinki using IntelliJ Idea, the submissions stored here for keepsake. 
 
 They are placed in a folder based on the part of the course they were from.
 
