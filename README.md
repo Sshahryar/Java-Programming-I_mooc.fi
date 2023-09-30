@@ -4,7 +4,7 @@ Repository where I will be uploading my submissions for exercises from the "Java
 
 The exercises were submitted using the TMC (test my code) plugin from the Univerity of Helsinki using IntelliJ Idea, the submissions stored here for keepsake. 
 
-They are placed in a folder based on the part of the course they were from.
+The exercise submissions are placed in a folder based on the part of the course they were from.
 
-For example the submissions for part 1 will be in "Part1ExerciseSubmission", below will be the parts of the courses with the exercise, their submissions all in order and plenty of other information.
+For example the submissions for part 1 will be in the "Part1ExerciseSubmissions" folder, below will be the parts of the courses with their exercises, submissions all in order, and plenty of other information about my experience with the course.
 
