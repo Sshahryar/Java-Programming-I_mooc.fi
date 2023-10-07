@@ -16,6 +16,13 @@ For example, the exercise solution submissions for part 1 will be in the "Part1E
 
 #### Sumbission:
 
+public class Sandbox {
+
+    public static void main(String[] args) {
+        // Write your program here
+      }
+    }
+
 #### Purpose:
 
 The purpose of this program was to simply submit something through the TMC (Test My Code) plugin from the University of Helsinki, to get familiarized with it. 
