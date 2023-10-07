@@ -1,13 +1,15 @@
 # JavaProgrammingI_mooc.fi
 
-Repository where I will be uploading my submissions for exercise solution from the "Java Programming I" course from the University of Helsinki.
+Repository where I will be uploading my submissions for exercise solutions from the "Java Programming I" course from the University of Helsinki.
 
 The exercise solutions were submitted using the TMC (test my code) plugin from the Univerity of Helsinki using IntelliJ Idea, the submissions stored here are for keepsake, personal achievement and public access to my course completion.  
 
 The exercise submissions are placed in a folder based on the part of the course they were from.
 
-For example, the exercise solution submissions for part 1 will be in the "Part1ExerciseSubmissions" folder, below will be the parts of the courses with their exercises, solution submissions all in order, and plenty of other information about my experience with the course.
+For example, the exercise solution submissions for part 1 will be in the "Part1ExerciseSubmissions" folder, below will be the parts of the courses with their exercises and solution submissions all in order.
 
+Details about the readings, quizzes and other components of the course will be in the wiki.
+ 
 ## The Exercises
 
 ### Part1ExerciseSumbissions:
@@ -16,7 +18,7 @@ For example, the exercise solution submissions for part 1 will be in the "Part1E
 
 #### Sumbission:
 
-public class Sandbox {
+    public class Sandbox {
 
     public static void main(String[] args) {
         // Write your program here
@@ -30,3 +32,11 @@ The purpose of this program was to simply submit something through the TMC (Test
 #### Output:
 
 Nothing. Simply a submission exercise.
+
+#### AdaLovelace.java
+
+#### Sumbission:
+
+
+
+#### Purpose:
