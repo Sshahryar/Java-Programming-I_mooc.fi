@@ -16,7 +16,7 @@ Details about the readings, quizzes and other components of the course will be i
 
 #### 1. Sandbox.java
 
-#### Sumbission:
+#### Submission:
 
     public class Sandbox {
 
@@ -35,7 +35,7 @@ Nothing. Simply a submission exercise.
 
 #### 2. AdaLovelace.java
 
-#### Sumbission:
+#### Submission:
 
     public class AdaLovelace {
 
