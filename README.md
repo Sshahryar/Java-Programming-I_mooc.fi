@@ -52,7 +52,7 @@ Simple console based output.
 
 #### Output
 
-![image](https://github.com/Sshahryar/Java-ProgrammingI_mooc.fi/assets/123003299/0fe55b0d-a347-4518-bf54-ae19608ffada)
+![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/d064e77f-1b5a-4fd0-92fb-ea84ab0cc527)
 
 #### 3. OnceUponaTime.java
 
