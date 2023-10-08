@@ -14,7 +14,7 @@ Details about the readings, quizzes and other components of the course will be i
 
 ### Part1ExerciseSumbissions:
 
-#### Sandbox.java
+#### 1. Sandbox.java
 
 #### Sumbission:
 
@@ -33,10 +33,35 @@ The purpose of this program was to simply submit something through the TMC (Test
 
 Nothing. Simply a submission exercise.
 
-#### AdaLovelace.java
+#### 2. AdaLovelace.java
 
 #### Sumbission:
 
+    public class AdaLovelace {
+
+    public static void main(String[] args) {
+        // Write your program here
+        System.out.println("Ada Lovelace");
+      }
+    }
 
 
 #### Purpose:
+
+Simple console based output. 
+
+#### Output
+
+![image](https://github.com/Sshahryar/Java-ProgrammingI_mooc.fi/assets/123003299/0fe55b0d-a347-4518-bf54-ae19608ffada)
+
+#### 3. OnceUponaTime.java
+
+#### Submission:
+
+#### Purpose:
+
+Printing more than one line.
+
+#### Output:
+
+![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/efdde23b-1be4-4e8c-bac6-6501f53b85cc)
