@@ -191,8 +191,38 @@ Printing a user inputed string three times in a row.
 
 #### Purpose:
 
-Greeting a user after they input their name.
+Greeting a user after they input their name using strings.
 
 #### Output:
 
 ![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/61763a21-0113-495a-9cf3-80563ab1e9d7)
+
+#### 9. Coversation.java
+
+#### Sumbission:
+
+    import java.util.Scanner;
+
+    public class Conversation {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Greetings! How are you doing?");
+        String doing = scanner.nextLine();
+
+        System.out.println("Oh, how interesting. Tell me more!");
+        String more = scanner.nextLine();
+
+        System.out.println("Thanks for sharing!");
+
+         }
+    }
+
+#### Purpose:
+
+Using user string inputs to form a little conversation.
+
+#### Output:
+
+![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/9c1ef37e-fd6b-4b8d-9211-61e4abf3ef19)
