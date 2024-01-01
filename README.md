@@ -226,3 +226,37 @@ Using user string inputs to form a little conversation.
 #### Output:
 
 ![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/9c1ef37e-fd6b-4b8d-9211-61e4abf3ef19)
+
+#### 10. Story.java
+
+#### Submission:
+
+    import java.util.Scanner;
+
+    public class Story {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("I will tell you a story, but I need some information first.");
+
+        System.out.println("What is the main character called?");
+        String name = scanner.nextLine();
+
+        System.out.println("What is their job?");
+        String job = scanner.nextLine();
+
+        System.out.println("Here is the story:");
+        System.out.println("Once upon a time there was " + name + ", who was " + job + ".");
+        System.out.println("On the way to work, " + name + " reflected on life.");
+        System.out.println("Perhaps " + name + " will not be " + job + " forever.");
+      }
+    }
+
+#### Purpose:
+
+Forming complicated text based on user input.
+
+#### Output:
+
+![image](https://github.com/Sshahryar/Java-Programming-I_mooc.fi/assets/123003299/15c7c7c1-9e44-43a0-978f-c2c3e85a475e)
